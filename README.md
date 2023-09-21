@@ -36,6 +36,5 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=23&pause=1000&color=2F80ED&width=435&lines=Thank+you+for+coming!)](https://git.io/typing-svg)
 
 
