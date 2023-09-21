@@ -13,6 +13,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+🛠  Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,maven,idea&theme=light)](https://skillicons.dev)
+
 
 
 
