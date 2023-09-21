@@ -1,3 +1,4 @@
+Hey there!
 <h3>👨🏻‍💻  About Me</h3>
 <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
 <p>🎓  I'm currently studying new technologies.</p>
