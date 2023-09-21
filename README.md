@@ -18,7 +18,7 @@
 <h3>🛠  Tech Stack</h3>
 
 
-<img align="right" width="100" height="100" src="![image](https://github.com/somecapo/somecapo/assets/137711790/17492df0-924d-4802-bff1-a9fbfbeeba0f)">
+<img align="right" width="300" height="300" src="![image](https://github.com/somecapo/somecapo/assets/137711790/17492df0-924d-4802-bff1-a9fbfbeeba0f)">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
