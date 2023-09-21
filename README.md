@@ -19,7 +19,7 @@
 
 
 
-<img align="right" width="500" height="200" src="![image](https://github.com/somecapo/somecapo/blob/main/Assets/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif)
+<img align="right" width="500" height="200" src="![image](![]https://github.com/somecapo/somecapo/blob/main/Assets/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif)
 ">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
