@@ -1,4 +1,4 @@
-![](https://tenor.com/en-GB/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)
+ Hey! ![](https://tenor.com/en-GB/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)
 
 
 <h3>👨🏻‍💻  About Me</h3>
