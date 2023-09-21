@@ -1,4 +1,5 @@
-Hey there!
+<h2>![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/somecapo/somecapo/assets/137711790/7982cc64-c9cf-47c5-8128-11217bfc243b)</h2>
+
 <h3>👨🏻‍💻  About Me</h3>
 <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
 <p>🎓  I'm currently studying new technologies.</p>
