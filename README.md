@@ -1,4 +1,4 @@
- <h2>Hey, there 👋</h2>
+![image](https://github.com/somecapo/somecapo/assets/137711790/361fb6d9-c32c-4d3c-a490-409e4bbb9234) <h2>Hey, there 👋</h2>
 
 
 <h3>👨🏻‍💻  About Me</h3>
@@ -19,8 +19,7 @@
 
 
 
-<img align="right" width="500" height="200" src="![gif](![]https://github.com/somecapo/somecapo/blob/main/Assets/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif)
-">
+<img align="right" width="100" height="100" src="![image](https://github.com/somecapo/somecapo/assets/137711790/17492df0-924d-4802-bff1-a9fbfbeeba0f)">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
