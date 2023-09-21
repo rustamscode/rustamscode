@@ -4,9 +4,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecapo&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&theme=default&layout=compact)
 
-Python  JavaScript  Java  Swift
-Django  Flask  Bootstrap  PostgreSQL
-HTML  CSS  Git  GitHub  Markdown
-Visual Studio Code  PyCharm  XCode
-Illustrator  Photoshop  InDesign
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=23&pause=1000&color=2F80ED&width=435&lines=Thank+you+for+coming!)](https://git.io/typing-svg)
+
 
