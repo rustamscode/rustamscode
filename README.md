@@ -1,4 +1,4 @@
- Hey!
+ <h2>Hey, there 👋</h2>
 
 
 <h3>👨🏻‍💻  About Me</h3>
