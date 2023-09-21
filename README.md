@@ -7,7 +7,7 @@
 
 🛠  Tech Stack
 
-<img align="right" width="200" height="400" src="![image](https://github.com/somecapo/somecapo/assets/137711790/ac1bad98-d66b-46f6-9ecb-85f25b2e6091)
+<img align="right" width="500" height="400" src="![image](https://github.com/somecapo/somecapo/assets/137711790/ac1bad98-d66b-46f6-9ecb-85f25b2e6091)
 ">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
