@@ -1,4 +1,4 @@
-<h2>👨🏻‍💻  About Me</h2>
+<h4>👨🏻‍💻  About Me</h4>
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 🎓  I'm currently studying new technologies.
 🌱  I'm going to learn more about systems design, web development and cloud architecture.
@@ -6,7 +6,7 @@
 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 ✉️  You can shoot me an email at vlad_aganin33@hotmail.com! I'll try to respond as soon as I can.
 
-<h2>⚙️  GitHub Analytics</h2>
+<h3>⚙️  GitHub Analytics</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecapo&theme=default&show_icons=true)
