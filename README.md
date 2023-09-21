@@ -1,4 +1,4 @@
-👨🏻‍💻  About Me
+<h2>👨🏻‍💻  About Me</h2>
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 🎓  I'm currently studying new technologies.
 🌱  I'm going to learn more about systems design, web development and cloud architecture.
