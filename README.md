@@ -1,4 +1,4 @@
-<h4>👨🏻‍💻  About Me</h4>
+<h3>👨🏻‍💻  About Me</h3>
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 🎓  I'm currently studying new technologies.
 🌱  I'm going to learn more about systems design, web development and cloud architecture.
@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&theme=default&layout=compact)
 
 
-<h2>🛠  Tech Stack</h2>
+<h3>🛠  Tech Stack</h3>
 
 
 
