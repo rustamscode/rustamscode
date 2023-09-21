@@ -1,4 +1,5 @@
-Assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif
+![image](https://github.com/somecapo/somecapo/assets/137711790/bfaf3355-1ab0-4155-84bc-e0c3f2402451)
+
 
 <h3>👨🏻‍💻  About Me</h3>
 <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
