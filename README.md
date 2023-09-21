@@ -10,8 +10,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecapo&theme=default&show_icons=true)
-![image](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&theme=default&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&hide_progress=true)
 
 <h3>🛠  Tech Stack</h3>
 
