@@ -1,8 +1,15 @@
-⚙️  𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
+⚙️  GitHub Analytics
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecapo&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&theme=default&layout=compact)
+
+
+🛠  Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
