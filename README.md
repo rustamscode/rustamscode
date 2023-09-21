@@ -1,4 +1,4 @@
-<h2>Assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif</h2>
+Assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif
 
 <h3>👨🏻‍💻  About Me</h3>
 <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
