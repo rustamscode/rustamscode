@@ -29,7 +29,8 @@
 🛠  Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,maven,idea,java,java,java,java,java,java,java,java,java,java,java,java&theme=light)](https://skillicons.dev)
+<img align="right" width="300" height="100" src="![image](https://github.com/somecapo/somecapo/assets/137711790/ac1bad98-d66b-46f6-9ecb-85f25b2e6091)
+">[![My Skills](https://skillicons.dev/icons?i=java,mysql,maven,idea,java,java,java,java,java,java,java,java,java,java,java,java&theme=light)](https://skillicons.dev)
 
 
 
