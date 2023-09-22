@@ -9,11 +9,6 @@
 <p>💬  Feel free to reach out for some interesting discussion.</p>
 <p>✉️  You can shoot me in telegram! I'll try to respond as soon as I can.</p>
 
-<h3>⚙️  GitHub Analytics</h3>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecapo&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&layout=compact)
 
 <h3>🛠  Tech Stack</h3>
 
@@ -26,6 +21,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<h3>⚙️  GitHub Analytics</h3>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecapo&theme=default&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&layout=compact)
 
 
 
