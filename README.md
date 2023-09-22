@@ -1,4 +1,4 @@
-![image](https://github.com/somecapo/somecapo/assets/137711790/7fe79903-41a2-4e10-a092-a5f91c2cb2b7)
+![Uploading image.png…]()
 
 <h2>Hey, there 👋</h2>
 
