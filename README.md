@@ -4,10 +4,8 @@
 <h3>👨🏻‍💻  About Me</h3>
 <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
 <p>🎓  I'm currently studying new technologies.</p>
-<p>🌱  I'm going to learn more about systems design, web development and cloud architecture.</p>
-<p>✍️  In my free time, I create various applications.</p>
-<p>💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.</p>
-<p>✉️  You can shoot me an email at vlad_aganin33@hotmail.com! I'll try to respond as soon as I can.</p>
+<p>💬  Feel free to reach out for some interesting discussion.</p>
+<p>✉️  You can shoot me in telegram! I'll try to respond as soon as I can.</p>
 
 <h3>⚙️  GitHub Analytics</h3>
 
