@@ -1,3 +1,4 @@
+https://github.com/somecapo/somecapo/blob/main/Assets/Black%20and%20Ivory%20Modern%20Name%20YouTube%20Channel%20Art%20(1).png
 <h2>Hey, there 👋</h2>
 
 
