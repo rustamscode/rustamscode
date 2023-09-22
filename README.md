@@ -1,4 +1,4 @@
-![image](https://github.com/somecapo/somecapo/assets/137711790/da035acd-6e79-494f-ae3c-382842d26b73)
+![image](https://github.com/somecapo/somecapo/assets/137711790/7fe79903-41a2-4e10-a092-a5f91c2cb2b7)
 
 <h2>Hey, there 👋</h2>
 
