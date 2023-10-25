@@ -45,8 +45,7 @@
 <p>• https://t.me/somecapo</p>
 <p>• somecapo69@gmail.com</p>
 
- <br>
- <br>
+<h2>💭 Daily Wisdom</h2>
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
