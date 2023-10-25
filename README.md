@@ -44,7 +44,10 @@
 <h3>📫 How to reach me</h3>
 <p>• https://t.me/somecapo</p>
 <p>• somecapo69@gmail.com</p>
-</b>
+
+<p>
+<p>
+<p>
   
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
