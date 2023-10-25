@@ -46,13 +46,9 @@
 <p>• somecapo69@gmail.com</p>
 
  <br>
-  <br>
-   <br>
-    <br>
-     <br>
+ <br>
   
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
