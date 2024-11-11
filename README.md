@@ -44,8 +44,8 @@
 
 
 <h3>📫 How to reach me</h3>
-<p>• https://t.me/somecapo</p>
-<p>• somecapo69@gmail.com</p>
+<p>• https://t.me/agagylrustamov</p>
+<p>• agagylrustamov@gmail.com</p>
 
 <h2>💭 Daily Wisdom</h2>
   
