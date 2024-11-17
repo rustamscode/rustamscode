@@ -3,7 +3,7 @@
 <h3>I'm Java Developer from Russia</h3>
 </div>
 <div id="socials" align="center">
-<a href="telegram-url">
+<a href="https://t.me/agagylrustamov">
 <img src="https://img.shields.io/badge/Telegram-blue?style-for-the- badge&logo-telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
