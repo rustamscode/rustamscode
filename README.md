@@ -1,8 +1,4 @@
-![image](https://github.com/somecapo/somecapo/assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
-
-
-
-<h2>Hey, there 👋</h2>
+<h1>Hey, there 👋</h1>
 
 
 <h3>👨🏻‍💻  About Me</h3>
