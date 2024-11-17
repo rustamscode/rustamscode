@@ -1,4 +1,4 @@
-![image](https://github.com/somecapo/somecapo/assets/137711790/d581cf80-9d8b-4049-b5a5-8132695e5014)
+![image](https://github.com/somecapo/somecapo/assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 
 
 
