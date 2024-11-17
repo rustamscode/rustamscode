@@ -1,5 +1,7 @@
-<h1>Hey, there 👋</h1>
-
+<div id="header" align="center">
+<h1>Hi there!</h1>
+<h3>Java Developer From Russia</h3>
+</div>
 
 <h3>👨🏻‍💻  About Me</h3>
 <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
