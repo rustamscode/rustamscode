@@ -2,6 +2,10 @@
 <h1>Hi there! I'm Rustam</h1>
 <h3>Java Developer from Russia</h3>
 </div>
+<a href="https://t.me/agagylrustamov">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style-for-the-
+badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <h3>👨🏻‍💻  About Me</h3>
 <p>💡  I like to explore new technologies and develop software solutions and quick hacks.</p>
