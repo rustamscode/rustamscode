@@ -34,25 +34,9 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 
-
-
-<h3>⚙️  GitHub Analytics</h3>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecapo&theme=default&show_icons=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somecapo&layout=compact)
-
-
-
 <h3>📫 How to reach me</h3>
 <p>• https://t.me/agagylrustamov</p>
 <p>• agagylrustamov@gmail.com</p>
-
-<h2>💭 Daily Wisdom</h2>
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
