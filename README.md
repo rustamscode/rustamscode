@@ -2,7 +2,7 @@
 <hr/>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rustamscode)&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/agagylrustamov)&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/rustamscode)&nbsp;&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=rustamscode&style=flat&color=green&label=Profile+views)](#/)&nbsp;&nbsp;
 [![Stars](https://custom-icon-badges.herokuapp.com/github/stars/rustamscode?color=55960c&labelColor=488207&style=social&logo=star&logoColor=black&label=Stars)](https://github.com/rustamscode?tab=repositories&sort=stargazers)&nbsp;&nbsp;
 [![Followers](https://custom-icon-badges.herokuapp.com/github/followers/rustamscode?color=236ad3&labelColor=1155ba&style=social&logo=github&logoColor=black&label=Follow)](https://github.com/rustamscode?tab=followers)&nbsp;&nbsp;
